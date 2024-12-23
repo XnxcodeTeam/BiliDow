@@ -19,6 +19,8 @@ pip install rich
 ```python
 python bilibili.py
 ```
+# Example Url 
+- https://www.bilibili.tv/en/video/(id)
 # Note
 Harap gunakan tools ini dengan penuh tanggung jawab. Tools ini dirancang untuk membantu dan mempermudah pekerjaan, bukan untuk disalahgunakan atau digunakan untuk tujuan yang merugikan pihak lain. Segala bentuk penyalahgunaan adalah tanggung jawab pengguna sepenuhnya.
 
