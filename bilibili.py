@@ -1,3 +1,8 @@
+#!/usr/bin/env python3 | coding=utf-8
+
+# code : Aldi Bachtiar Rifai
+# type : Tool downloader bstation | open source code team
+
 import requests
 import re
 import os
